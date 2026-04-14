@@ -1,7 +1,7 @@
 # 🌌
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1538370965046-79c0d6907d47" alt="banner" width="100%"/>
+  <img src="[https://images.unsplash.com/photo-1538370965046-79c0d6907d47](https://github.com/sylvesterkho1113/sylvesterkho1113/blob/main/Banner.jpg)" alt="banner" width="100%"/>
 </p>
 
 <h2 align="center">Hi there, I'm Kho Wei Cong 😄</h2>
@@ -25,16 +25,21 @@ A final year AI student passionate about building real-world intelligent systems
 
 ```json
 {
-  "name": "Wei Cong Kho",
-  "education": "Bachelor of Computer Science (Hons), Artificial Intelligence",
-  "institution": "Multimedia University",
-  "location": "Johor Bahru, Malaysia",
-  "interests": [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Backend Development",
-    "API Systems"
-  ],
+  "name" = "Chwan Kai See"
+  "email" = "chwankai09132@gmail.com"
+  "education" = {
+      "Bachelor of Computer Science (Hons), Artificial Intelligence": {
+          "institution": "Multimedia University",
+          "cgpa": 3.77/4.00
+      },
+      "Diploma in Information Technology": {
+          "institution": "Multimedia University",
+          "cgpa": 3.48/4.00
+      }
+  }
+  "language" = "en", "zh", "ms", "ja"
+  "located_in" = "Johor Bahru, Malaysia"
+  "currently_working_on" = "Real-Time Drowsiness Detection Using Facial Cues Via A Mobile Application"
   "current_focus": [
     "Deep Learning",
     "Real-time Systems",
