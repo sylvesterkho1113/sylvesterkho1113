@@ -1,7 +1,7 @@
 # 🌌
 
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1538370965046-79c0d6907d47](https://github.com/sylvesterkho1113/sylvesterkho1113/blob/main/Banner.jpg)" alt="banner" width="100%"/>
+  <img src="https://github.com/sylvesterkho1113/sylvesterkho1113/blob/main/Banner.jpg" alt="banner" width="100%"/>
 </p>
 
 <h2 align="center">Hi there, I'm Kho Wei Cong 😄</h2>
