@@ -96,4 +96,4 @@ A final year AI student passionate about building real-world intelligent systems
 
 ## 💭 Quote
 
-> "Consistency beats intensity."
+> "You only live once, but if you do it right, once is enough."
