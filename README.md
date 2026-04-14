@@ -25,21 +25,21 @@ A final year AI student passionate about building real-world intelligent systems
 
 ```json
 {
-  "name" = "Chwan Kai See"
-  "email" = "chwankai09132@gmail.com"
-  "education" = {
-      "Bachelor of Computer Science (Hons), Artificial Intelligence": {
-          "institution": "Multimedia University",
-          "cgpa": 3.77/4.00
-      },
-      "Diploma in Information Technology": {
-          "institution": "Multimedia University",
-          "cgpa": 3.48/4.00
-      }
-  }
-  "language" = "en", "zh", "ms", "ja"
-  "located_in" = "Johor Bahru, Malaysia"
-  "currently_working_on" = "Real-Time Drowsiness Detection Using Facial Cues Via A Mobile Application"
+  "name": "Wei Cong Kho",
+  "email": "khoweicong100@gmail.com",
+  "education": {
+    "Bachelor of Computer Science (Hons), Artificial Intelligence": {
+      "institution": "Multimedia University",
+      "cgpa": "3.77/4.00"
+    },
+    "Diploma in Information Technology": {
+      "institution": "Multimedia University",
+      "cgpa": "3.48/4.00"
+    }
+  },
+  "language": ["en", "zh", "ms", "ja"],
+  "located_in": ["Johor Bahru, Malaysia"],
+  "currently_working_on": "Real-Time Drowsiness Detection Using Facial Cues Via A Mobile Application",
   "current_focus": [
     "Deep Learning",
     "Real-time Systems",
