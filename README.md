@@ -11,7 +11,7 @@ A final year AI student passionate about building real-world intelligent systems
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/sylvesterkho1113">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="http://www.linkedin.com/in/wei-cong-kho-912685300">
