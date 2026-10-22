@@ -105,7 +105,7 @@ My Final Year Project for the Bachelor of Computer Science (Honours), Artificial
 
 ## 🚀 Currently Exploring
 
-* 💼 Interning as a **Full-Stack Web Developer**, building internal systems tailored to internal users' requirements
+* 💼 Permanent as a **Full-Stack Web Developer**, building internal systems tailored to internal users' requirements in Wiwynn Technology Service Malaysia Sdn. Bhd.
 * 🔧 Gaining hands-on experience in requirement gathering, full-stack architecture, and iterative delivery
 * 🤖 Looking for ways to bring AI/ML into practical, everyday web applications
 
